@@ -1,0 +1,29 @@
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\excel kezelo test.exe
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\excel kezelo test.deps.json
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\excel kezelo test.runtimeconfig.json
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\excel kezelo test.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\excel kezelo test.pdb
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.csproj.AssemblyReference.cache
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\ModifyWindow.baml
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\ModifyWindow.g.cs
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test_MarkupCompile.cache
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.g.resources
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.AssemblyInfoInputs.cache
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.AssemblyInfo.cs
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.csproj.CoreCompileInputs.cache
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.csproj.CopyComplete
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\refint\excel kezelo test.dll
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.pdb
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\excel kezelo test.genruntimeconfig.cache
+C:\Users\Bandi\source\repos\excel kezelo test\excel kezelo test\obj\Debug\net7.0-windows\ref\excel kezelo test.dll

@@ -1,0 +1,23 @@
+﻿<Window x:Class="excel_kezelo_test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Excel Kezelő" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+            <Button Content="Tábla Megnyitása" Click="OpenTableButton_Click" Height="34" />
+            <TextBox x:Name="SearchBox" KeyUp="SearchBox_KeyUp" Width="200" Margin="5"/>
+            <DataGrid x:Name="DataGrid" AutoGenerateColumns="True" SelectionChanged="DataGrid_SelectionChanged" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center" Margin="5">
+            <Button Content="Deaktiválás" Click="DeactivateButton_Click" Height="34" Margin="5"/>
+            <Button Content="Módosítás" Click="ModifyButton_Click" Height="34" Margin="5"/>
+            <Button Content="Hozzáadás" Click="AddButton_Click" Height="34" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
